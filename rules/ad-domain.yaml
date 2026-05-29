@@ -1,0 +1,8 @@
+# Ad blocking DNS rules
+# Basic filtering
+||doubleclick.net^
+||googlesyndication.com^
+||googleadservices.com^
+# Social media ads
+||facebook.com/tr^
+||connect.facebook.net/fbevents^
